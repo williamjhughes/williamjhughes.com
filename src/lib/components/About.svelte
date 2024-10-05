@@ -3,7 +3,7 @@
 	<div class="space-y-2.5 text-justify text-xs leading-normal text-zinc-500 md:text-sm">
 		<p>
 			I'm a Software Engineer at the BBC, where I contribute to systems that bring audio and video content to platforms
-			like iPlayer, Sounds, News, and Sport. I graduated from the University of Derby in 2021 with a BSc. in Computer
+			such as iPlayer, Sounds, News, and Sport. I graduated from the University of Derby in 2021 with a BSc. in Computer
 			Science.
 		</p>
 		<p>

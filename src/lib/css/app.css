@@ -1,1 +1,5 @@
 @import 'tailwindcss/tailwind.css';
+
+::selection {
+	@apply bg-blue-400/25;
+}
