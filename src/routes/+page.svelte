@@ -6,6 +6,10 @@
 	import Work from '$lib/components/Work.svelte';
 </script>
 
+<svelte:head>
+	<title>William Hughes</title>
+</svelte:head>
+
 <main class="container space-y-8 p-6 md:p-16">
 	<Header />
 	<About />
