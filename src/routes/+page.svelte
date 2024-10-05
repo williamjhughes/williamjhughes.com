@@ -1,3 +1,7 @@
-<main class="grid min-h-screen place-items-center">
-	<h1 class="text-4xl font-bold">Hello, World</h1>
+<script>
+	import Header from '$lib/components/Header.svelte';
+</script>
+
+<main class="container p-6 md:p-16">
+	<Header />
 </main>
