@@ -2,6 +2,7 @@
 	import About from '$lib/components/About.svelte';
 	import Education from '$lib/components/Education.svelte';
 	import Header from '$lib/components/Header.svelte';
+	import Skills from '$lib/components/Skills.svelte';
 	import Work from '$lib/components/Work.svelte';
 </script>
 
@@ -10,4 +11,5 @@
 	<About />
 	<Work />
 	<Education />
+	<Skills />
 </main>
