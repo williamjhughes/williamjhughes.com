@@ -1,10 +1,19 @@
+<script>
+	import About from '$lib/components/About.svelte';
+	import Education from '$lib/components/Education.svelte';
+	import Header from '$lib/components/Header.svelte';
+	import Skills from '$lib/components/Skills.svelte';
+	import Work from '$lib/components/Work.svelte';
+</script>
+
 <svelte:head>
-  <title>William Hughes</title>
+	<title>William Hughes</title>
 </svelte:head>
 
-<section class="min-h-screen grid place-items-center">
-  <div class="container md:space-y-[5px] xl:space-y-[10px] text-center">
-    <h1 class="text-2xl md:text-4xl xl:text-6xl font-semibold">Hello, I'm William Hughes</h1>
-    <h2 class="text-xl md:text-2xl lg:text-3xl text-zinc-600 dark:text-zinc-400">I'm a Software Engineer at the BBC</h2>
-  </div>
-</section>
+<main class="container space-y-8 p-6 md:p-16">
+	<Header />
+	<About />
+	<Work />
+	<Education />
+	<Skills />
+</main>
