@@ -1,5 +1,6 @@
 <script>
 	import About from '$lib/components/About.svelte';
+	import Education from '$lib/components/Education.svelte';
 	import Header from '$lib/components/Header.svelte';
 	import Work from '$lib/components/Work.svelte';
 </script>
@@ -8,4 +9,5 @@
 	<Header />
 	<About />
 	<Work />
+	<Education />
 </main>

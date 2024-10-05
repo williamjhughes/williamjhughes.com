@@ -34,7 +34,7 @@
 				</div>
 
 				<h4 class="text-sm font-semibold md:text-base">{position.role}</h4>
-				<p class="text-justify text-xs leading-normal text-zinc-500 md:text-sm">{position.description}</p>
+				<p class="text-justify text-xs text-zinc-500 md:text-sm">{position.description}</p>
 			</div>
 		{/each}
 	</div>
