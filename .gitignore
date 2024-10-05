@@ -1,9 +1,9 @@
-.svelte-kit/
-.vscode/
-
 node_modules/
 build/
-package/
+
+.svelte-kit/
+.output/
+.vercel/
 
 .DS_Store
 .env
